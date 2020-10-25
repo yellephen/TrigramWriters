@@ -1,0 +1,14 @@
+C:\Users\ds_wa\source\repos\TrigramWriter\TrigramWriter\bin\Debug\netcoreapp3.1\TrigramWriter.exe
+C:\Users\ds_wa\source\repos\TrigramWriter\TrigramWriter\bin\Debug\netcoreapp3.1\TrigramWriter.deps.json
+C:\Users\ds_wa\source\repos\TrigramWriter\TrigramWriter\bin\Debug\netcoreapp3.1\TrigramWriter.runtimeconfig.json
+C:\Users\ds_wa\source\repos\TrigramWriter\TrigramWriter\bin\Debug\netcoreapp3.1\TrigramWriter.runtimeconfig.dev.json
+C:\Users\ds_wa\source\repos\TrigramWriter\TrigramWriter\bin\Debug\netcoreapp3.1\TrigramWriter.dll
+C:\Users\ds_wa\source\repos\TrigramWriter\TrigramWriter\bin\Debug\netcoreapp3.1\TrigramWriter.pdb
+C:\Users\ds_wa\source\repos\TrigramWriter\TrigramWriter\obj\Debug\netcoreapp3.1\TrigramWriter.csprojAssemblyReference.cache
+C:\Users\ds_wa\source\repos\TrigramWriter\TrigramWriter\obj\Debug\netcoreapp3.1\TrigramWriter.AssemblyInfoInputs.cache
+C:\Users\ds_wa\source\repos\TrigramWriter\TrigramWriter\obj\Debug\netcoreapp3.1\TrigramWriter.AssemblyInfo.cs
+C:\Users\ds_wa\source\repos\TrigramWriter\TrigramWriter\obj\Debug\netcoreapp3.1\TrigramWriter.csproj.CoreCompileInputs.cache
+C:\Users\ds_wa\source\repos\TrigramWriter\TrigramWriter\obj\Debug\netcoreapp3.1\TrigramWriter.dll
+C:\Users\ds_wa\source\repos\TrigramWriter\TrigramWriter\obj\Debug\netcoreapp3.1\TrigramWriter.pdb
+C:\Users\ds_wa\source\repos\TrigramWriter\TrigramWriter\obj\Debug\netcoreapp3.1\TrigramWriter.genruntimeconfig.cache
+C:\Users\ds_wa\source\repos\TrigramWriter\TrigramWriter\bin\Debug\netcoreapp3.1\alice in wonderland.txt
