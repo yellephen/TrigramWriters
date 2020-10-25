@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ds_wa\\source\\repos\\TrigramWriter\\TrigramWriter\\TrigramWriter.csproj": {}
+    "C:\\Users\\ds_wa\\Source\\Repos\\TrigramWriters\\C#\\TrigramWriter\\TrigramWriter\\TrigramWriter.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ds_wa\\source\\repos\\TrigramWriter\\TrigramWriter\\TrigramWriter.csproj": {
+    "C:\\Users\\ds_wa\\Source\\Repos\\TrigramWriters\\C#\\TrigramWriter\\TrigramWriter\\TrigramWriter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ds_wa\\source\\repos\\TrigramWriter\\TrigramWriter\\TrigramWriter.csproj",
+        "projectUniqueName": "C:\\Users\\ds_wa\\Source\\Repos\\TrigramWriters\\C#\\TrigramWriter\\TrigramWriter\\TrigramWriter.csproj",
         "projectName": "TrigramWriter",
-        "projectPath": "C:\\Users\\ds_wa\\source\\repos\\TrigramWriter\\TrigramWriter\\TrigramWriter.csproj",
+        "projectPath": "C:\\Users\\ds_wa\\Source\\Repos\\TrigramWriters\\C#\\TrigramWriter\\TrigramWriter\\TrigramWriter.csproj",
         "packagesPath": "C:\\Users\\ds_wa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ds_wa\\source\\repos\\TrigramWriter\\TrigramWriter\\obj\\",
+        "outputPath": "C:\\Users\\ds_wa\\Source\\Repos\\TrigramWriters\\C#\\TrigramWriter\\TrigramWriter\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

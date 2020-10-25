@@ -11,7 +11,7 @@ namespace TrigramWriter
         static void Main(string[] args)
         {
             string input = "alice in wonderland.txt";
-            Console.WriteLine("Enter the text that will be read to generate a new text.");
+            Console.WriteLine("Enter file name containing the text that will be read to generate a new text.");
             Console.WriteLine(String.Format("Press enter for default, {0}", input));
             string chosenFile = Console.ReadLine();
             if(!string.IsNullOrEmpty(chosenFile))
@@ -20,7 +20,7 @@ namespace TrigramWriter
             }
             Console.WriteLine("How many words should the new text be?");
             int wordCount = 0;
-            while(wordCount == 0)
+            while(wordCount < 1)
             {
                 try
                 {
@@ -79,7 +79,7 @@ namespace TrigramWriter
             if (trigramOptions.Count == 0)
                 trigramOptions = trigrams;
             Random r = new Random();
-            return trigramOptions[r.Next(trigramOptions.Count)];
+            return trigramOptions[r.Next(trigramOptions.Count -1)];
         }
     }
 
